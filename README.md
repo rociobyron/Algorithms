@@ -1,5 +1,5 @@
-# Algorithms, Part I
-Programming assignments for the "Algorithms, Part I" course (Coursera)
+# Algorithms
+Programming assignments for the Princeton Algorithms course (parts I and II on Coursera)
 
 ## Disclaimers
 - These assignments were developed by Bob Sedgewick and Kevin Wayne (copyright :copyright: 2008)
@@ -15,4 +15,6 @@ Programming assignments for the "Algorithms, Part I" course (Coursera)
 3. Collinear points
 4. 8 puzzle
 5. Kd-trees
+6. WordNet
+7. Seam Carving
   
