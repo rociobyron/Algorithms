@@ -8,12 +8,12 @@ The program `PercolationStats` takes two command-line arguments, n and T, and pe
 
 ```
 $ javac -cp ../lib/* Percolation.java PercolationStats.java
-$ java -cp "../lib/*:." PercolationStats 200 1000
+$ java -cp "../lib/*:." PercolationStats 20 500
 ```
 
 ### Windows
 
 ```
 $ javac -cp ../lib/* Percolation.java PercolationStats.java
-$ java -cp "../lib/*;." PercolationStats 200 1000
+$ java -cp "../lib/*;." PercolationStats 20 500
 ```
