@@ -7,7 +7,7 @@ Programming assignments for the Princeton Algorithms course (parts I and II on C
 - If you are following a related course, consider whether checking my solutions might constitute a violation of the honor code
 
 ## Index
-1. [a relative link](Percolation)
+1. [Percolation](./Percolation)
 2. Deques and randomized queues
 3. Collinear points
 4. 8 puzzle
