@@ -3,7 +3,7 @@
  *  Execution:    java Percolation n
  *  Dependencies: WeightedQuickUnionUF.java
  *
- *  This program takes the name of a file as a command-line argument.
+ *  This program takes an integer (the size of the percolation grid) as a command-line argument.
  *
  *  The {@code Percolation} class represents a data type for representing a grid of blocked or open sites.
  *
