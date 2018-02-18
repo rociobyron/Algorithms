@@ -2,6 +2,8 @@
 
 The program `BaseballElimination` takes the input file name as  command-line argument and prints out whether each of the teams in the input file is mathematically eliminated, based on the number of wins, losses and games remaining to be played. For more information, visit the [official assignment description](http://coursera.cs.princeton.edu/algs4/assignments/baseball.html).
 
+Key concepts: Ford-Fulkerson algorithm, Flow network.
+
 ## How to compile and run
 
 ### Mac OS/ Linux
