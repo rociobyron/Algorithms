@@ -1,5 +1,5 @@
 # Algorithms
-Programming assignments for the Princeton Algorithms course (parts I and II on Coursera)
+Programming assignments for the Princeton Algorithms course (parts I and II on Coursera).
 
 ## Disclaimers
 - These assignments were developed by Bob Sedgewick and Kevin Wayne (copyright :copyright: 2008)
