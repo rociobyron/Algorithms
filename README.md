@@ -8,7 +8,7 @@ Programming assignments for the Princeton Algorithms course (parts I and II on C
 
 ## Index
 1. [Percolation](./Percolation)
-2. [Deques and randomized queues](./Deques and randomized queues)
+2. [Deques and randomized queues](./Queues)
 3. Collinear points
 4. 8 puzzle
 5. Kd-trees
