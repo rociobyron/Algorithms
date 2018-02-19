@@ -13,6 +13,6 @@ Programming assignments for the Princeton Algorithms course (parts I and II on C
 4. 8 puzzle
 5. Kd-trees
 6. WordNet
-7. Seam Carving
+7. [Seam Carving](./Carving)
 8. [Baseball elimination](./Baseball)
   
