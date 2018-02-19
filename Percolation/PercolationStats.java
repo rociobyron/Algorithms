@@ -1,5 +1,5 @@
 /**
- *  Compilation:  javac PercolationStats.java
+ *  Compilation:  javac Percolation.java PercolationStats.java
  *  Execution:    java PercolationStats n T
  *  Dependencies: Percolation.java StdStats.java StdRandom.java
  *
