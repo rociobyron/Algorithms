@@ -1,14 +1,15 @@
+import java.util.ArrayList;
+
 import edu.princeton.cs.algs4.FlowEdge;
 import edu.princeton.cs.algs4.FlowNetwork;
 import edu.princeton.cs.algs4.FordFulkerson;
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdOut;
 
-import java.util.ArrayList;
-
 /**
  *  Compilation:  javac BaseballElimination.java
  *  Execution:    java BaseballElimination input.txt
+ *  Dependencies: FlowEdge.java FlowNetwork.java FordFulkerson.java In.java StdOut.java
  *
  *  This program takes the name of a file as a command-line argument.
  *
