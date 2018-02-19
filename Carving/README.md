@@ -12,11 +12,11 @@ Key concepts: Edge-weighted directed acyclic graphs, shortest path.
 
 ```
 $ javac -cp "../lib/*" SeamCarver.java
-$ java -cp "../lib/*:." SeamCarver "./input/landscape.jpg"
+$ java -cp "../lib/*:." SeamCarver "./input/beach.jpg"
 ```
 
 ### Windows
 
 ```
 $ javac -cp "../lib/*" SeamCarver.java
-$ java -cp "../lib/*;." SeamCarver "./input/landscape.jpg"
+$ java -cp "../lib/*;." SeamCarver "./input/beach.jpg"
